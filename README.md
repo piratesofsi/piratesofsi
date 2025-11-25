@@ -12,7 +12,6 @@
 </p>
 
 ---
-
 ###
 <div align="center">
 <br clear="both">
@@ -51,7 +50,7 @@ Hi! I'm **MusabShaikh** — a developer passionate about web technologies and bu
 1. Copy this file into your GitHub profile repository's `README.md` (the repo named exactly the same as your username: `MusabShaikh`).
 2. Replace any images or links if they are stored in a different repo or path.
 3. To enable the GitHub stats and languages card shown above, leave the `username` query param as your GitHub username.
-4. For the contribution snake to show, make sure the `output` folder exists in a repo with the generated SVG path (the current URL points to `/mnt/data/adee994d-bc7e-48c6-8e98-f8833a0c91c5.png).
+4. For the contribution snake to show, make sure the `output` folder exists in a repo with the generated SVG path (the current URL points to `/mnt/data/adee994d-bc7e-48c6-8e98-f8833a0c91c5.png`).
 
 ---
 
