@@ -22,6 +22,10 @@
   <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=light&font=Moulpali&ext=heatmap" alt="LeetCode Stats" />
   <br/>
 </div>
+<br>
+
+![LeetCode Streak](https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&ext=contest&border=0&radius=10&site=leetcode)
+
 
 
 ![Snake animation](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
