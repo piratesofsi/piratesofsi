@@ -1,81 +1,68 @@
-<h1 align="center">Hi 👋, I'm Musab Shaikh</h1>
-<h3 align="center">A passionate CSE student and full-stack development enthusiast from India</h3>
+# 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=piratesofsi&label=Profile%20views&color=0e75b6&style=flat" alt="piratesofsi" />
-</p>
-
-- 🌱 I’m currently learning **Node.js, TypeScript, and Data Structures & Algorithms**  
-- 💬 Ask me about **Java, JavaScript, and DSA**  
-- 📫 Reach me at **musabshaikh242@gmail.com**  
-- ⚡ Fun fact: **I’m deeply passionate about tech and building real-world projects**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/musabshaikh242" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="musabshaikh242" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/piratesofsi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piratesofsi" height="30" width="40" />
-  </a>
+  <img src="https://github.com/MusabShaikh/CreativeNexus/blob/master/banner%20(1).png" alt="banner" />
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piratesofsi&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<br><br><br><br>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-<h3 align="left">🧠 LeetCode Stats:</h3>
+###
+<div align="center">
+<br clear="both">
+</div>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Unica%20One" alt="LeetCode Stats" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,ts,firebase,git,html,js" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nextjs,nodejs,react,redux,tailwind,java" />
+  </a>
+</p>
+
+<div align="center">
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusabShaikh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <br/>
+</div>
+
+
+
+![Snake animation](https://raw.githubusercontent.com/MusabShaikh/MusabShaikh/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piratesofsi" alt="GitHub Streak" />
-</p>
+## About Me
+
+Hi! I'm **MusabShaikh** — a developer passionate about web technologies and building clean, responsive user interfaces. I enjoy learning new stacks and turning ideas into projects.
+
+- 🔭 I’m currently working on personal projects and improving my portfolio.
+- 🌱 I’m learning advanced React patterns and backend design.
+- 💬 Ask me about JavaScript, React, Node.js, or any small UI/UX trick.
+
+---
+
+## Quick Tips to Use This README
+
+1. Copy this file into your GitHub profile repository's `README.md` (the repo named exactly the same as your username: `MusabShaikh`).
+2. Replace any images or links if they are stored in a different repo or path.
+3. To enable the GitHub stats and languages card shown above, leave the `username` query param as your GitHub username.
+4. For the contribution snake to show, make sure the `output` folder exists in a repo with the generated SVG path (the current URL points to `raw.githubusercontent.com/MusabShaikh/MusabShaikh/output/...`).
+
+---
+
+## Contact
+
+- GitHub: [MusabShaikh](https://github.com/MusabShaikh)
+- Twitter / X: `@musabshaikh242` (replace with yours)
+- Email: `musabshaikh242@gmail.com` (replace with yours)
+
+---
+
+> Enjoy — feel free to tell me if you want a different theme (light/dark), animated badges, or extra sections like Projects, Blog posts, or a pinned portfolio gallery.
