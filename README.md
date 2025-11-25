@@ -19,15 +19,10 @@
 
 <div align="center">
   <br/>
-  <![LeetCode Stats](https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Cutive&ext=heatmap)
+  <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Cutive&ext=heatmap" alt="LeetCode Stats" />
   <br/>
 </div>
+
 <br>
 
-
-
-
-
 ![Snake animation](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
-
-
