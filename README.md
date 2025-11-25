@@ -23,4 +23,4 @@
     <br/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/github-contribution-grid-snake-dark.svg) here replace it 
+![Snake animation](https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/github-contribution-grid-snake-dark.svg)
