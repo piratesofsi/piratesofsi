@@ -1,10 +1,14 @@
 # 
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+</p>
 
 <br>
 
 <p align="center">
-  <img src="https://github.com/MusabShaikh/CreativeNexus/blob/master/banner%20(1).png" alt="banner" />
+  <p align="center">
+  <img src="/mnt/data/adee994d-bc7e-48c6-8e98-f8833a0c91c5.png" alt="banner" width="700" />
+</p>
 </p>
 
 ---
@@ -18,23 +22,17 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
-  </a>
-</p>
-
-<div align="center">
+</p><div align="center">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MusabShaikh&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofsi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <br/>
 </div>
 
 
 
-![Snake animation](https://raw.githubusercontent.com/MusabShaikh/MusabShaikh/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="/mnt/data/adee994d-bc7e-48c6-8e98-f8833a0c91c5.png" alt="contributions" width="800" />
+</p>
 
 ---
 
@@ -53,13 +51,13 @@ Hi! I'm **MusabShaikh** — a developer passionate about web technologies and bu
 1. Copy this file into your GitHub profile repository's `README.md` (the repo named exactly the same as your username: `MusabShaikh`).
 2. Replace any images or links if they are stored in a different repo or path.
 3. To enable the GitHub stats and languages card shown above, leave the `username` query param as your GitHub username.
-4. For the contribution snake to show, make sure the `output` folder exists in a repo with the generated SVG path (the current URL points to `raw.githubusercontent.com/MusabShaikh/MusabShaikh/output/...`).
+4. For the contribution snake to show, make sure the `output` folder exists in a repo with the generated SVG path (the current URL points to `/mnt/data/adee994d-bc7e-48c6-8e98-f8833a0c91c5.png).
 
 ---
 
 ## Contact
 
-- GitHub: [MusabShaikh](https://github.com/MusabShaikh)
+- GitHub: [piratesofsi](https://github.com/piratesofsi)
 - Twitter / X: `@musabshaikh242` (replace with yours)
 - Email: `musabshaikh242@gmail.com` (replace with yours)
 
