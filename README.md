@@ -23,4 +23,4 @@
     <br/>
 </div>
 
-![Contribution Snake dark](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/kstubhieeee/piratesofsi/output/github-contribution-grid-snake-dark.svg)
