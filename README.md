@@ -63,6 +63,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Unica%20One)
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piratesofsi&" alt="GitHub Streak" />
