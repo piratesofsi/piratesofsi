@@ -25,3 +25,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
 
+
