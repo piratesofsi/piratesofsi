@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,css,express,ts,firebase,git,html,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,nextjs,nodejs,react,redux,tailwind,java" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,git,github" />
   </a>
 </p>
 
