@@ -19,8 +19,8 @@
 
 <div align="center">
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kstubhieeee&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofsi&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
     <br/>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/kstubhieeee/kstubhieeee/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
