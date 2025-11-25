@@ -1,4 +1,4 @@
-name: Generate Snake Animation2
+name: Generate Snake Animation3
 
 permissions:
   contents: write
@@ -17,11 +17,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Generate GitHub Contribution Snake (Rainbow)
+      - name: Generate GitHub Contribution Snake (Rainbow - light bg)
         uses: Platane/snk@v3
         with:
           github_user_name: piratesofsi
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake.svg       # <-- non-dark (white bg)
           color_snake: "#00ff00 #00ccff #0066ff #6600ff #cc00ff #ff0080 #ff3300 #ff6600 #ffcc00"
 
       - name: Publish output branch
@@ -31,4 +31,5 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
 
