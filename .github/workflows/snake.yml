@@ -1,7 +1,7 @@
 name: Generate Snake Animation
 
 permissions:
-  contents: write   # <- allow pushing files (GITHUB_TOKEN)
+  contents: write
 
 on:
   workflow_dispatch:
@@ -21,7 +21,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: piratesofsi
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          outputs: dist/github-contribution-grid-snake-dark.svg   # DARK VERSION
 
       - name: Publish output branch
         uses: crazy-max/ghaction-github-pages@v3
