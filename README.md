@@ -19,7 +19,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=light&font=Moulpali&ext=heatmap" alt="LeetCode Stats" />
+  <![LeetCode Stats](https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Cutive&ext=heatmap)
   <br/>
 </div>
 <br>
