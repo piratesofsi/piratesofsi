@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  workflow_dispatch:   # <- enables the "Run workflow" button
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: piratesofsi
+          outputs: dist/github-contribution-grid-snake-dark.svg
+
+      - name: Publish output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
