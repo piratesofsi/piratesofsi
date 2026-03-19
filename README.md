@@ -3,7 +3,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/piratesofsi/piratesofsi/5141ce44a9347c0c7ade9b9d5d176c11e193d517/Gemini_Generated_Image_r3mfqpr3mfqpr3mf.png" width="100%" />
+<img src="https://raw.githubusercontent.com/piratesofsi/piratesofsi/5141ce44a9347c0c7ade9b9d5d176c11e193d517/coverimage.jpg" width="100%" />
 
 <br>
 
