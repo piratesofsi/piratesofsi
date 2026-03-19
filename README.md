@@ -16,16 +16,18 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,nodejs,mysql,java,tailwindcss" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&theme=tokyonight" />
-</p>
+>
 
 <div align="center">
   <br/>
   <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Cutive&ext=heatmap" alt="LeetCode Stats" />
   <br/>
 </div>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&theme=tokyonight" />
+</p
 
 <br>
 
