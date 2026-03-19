@@ -2,8 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FFFF&center=true&vCenter=false&width=720&height=90&lines=GPU+overheating%E2%80%94touch+some+air.)](https://git.io/typing-svg)
 
 <br>
-
-<img src="https://raw.githubusercontent.com/piratesofsi/piratesofsi/5141ce44a9347c0c7ade9b9d5d176c11e193d517/newcoverimage.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/piratesofsi/piratesofsi/main/newcoverimage.jpg" width="100%" />
 
 <br>
 
