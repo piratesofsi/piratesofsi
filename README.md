@@ -1,34 +1,56 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00FFFF&center=true&vCenter=false&width=720&height=90&lines=GPU+overheating%E2%80%94touch+some+air.)](https://git.io/typing-svg)
-
-<br>
-<img src="https://raw.githubusercontent.com/piratesofsi/piratesofsi/main/newcoverimage.jpg" width="100%" />
-
-<br>
-
-###
 <div align="center">
-<br clear="both">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=GPU+overheating+%E2%80%94+touch+some+air.;MERN+Stack+%7C+Computer+Engineering+Y3;Full-stack+builder+%26+DSA+thinker.)](https://git.io/typing-svg)
+
 </div>
 
+---
+
+```
+📡  Musab — MERN stack developer, Computer Engineering Y3
+🧠  Running ThinkLikeMusab: honest DSA problem-solving docs
+⚡  Currently building: real-time apps, biometric auth systems
+🌐  musab.dev  ·  open to collabs & internships
+```
+
+---
+
+### `> stack`
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,react,nodejs,expressjs,mysql,java,tailwindcss,mongodb,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,fastapi,js,tailwindcss,html,css,git,github,mysql,java,vscode&theme=dark&perline=8" />
 </p>
 
+---
+
+### `> featured`
+
+| Project | Stack | Description |
+|---|---|---|
+| **ThinkLikeMusab** | MERN · JWT · Markdown | DSA blog — raw problem-solving, not just clean answers |
+| **NovaChat** | React · Socket.io · Node | Anonymous real-time chat with room-based architecture |
+| **Access Control System** | FastAPI · Python · React | Biometric face-recognition auth system |
+| **Musab.dev** | HTML/CSS · AWS S3 | Personal portfolio with glassmorphism redesign |
+
+---
+
+### `> metrics`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FFFF&icon_color=FF00FF&text_color=a0a0b0" height="160"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piratesofsi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00FFFF&text_color=a0a0b0" height="160"/>
+</div>
 
 <div align="center">
   <br/>
-  <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=Cutive&ext=heatmap" alt="LeetCode Stats" />
-  <br/>
+  <img src="https://leetcard.jacoblin.cool/Piratesofsi?theme=dark&font=JetBrains+Mono&ext=heatmap" />
 </div>
 
+---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&theme=tokyonight" />
-</p
-
-<br>
+<div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/piratesofsi/piratesofsi/output/github-contribution-grid-snake-dark.svg)
+
+</div>
