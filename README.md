@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piratesofsi&show_icons=true&theme=tokyonight" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=piratesofsi" alt="GitHub Streak" /></a>
 </p>
 
 <br>
